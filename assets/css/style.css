@@ -1,0 +1,256 @@
+body {
+	width:100%;
+	background-color:;
+	
+}
+
+header{
+	position: static;
+	top: 0;
+	left: 0;
+	height: 70px;
+	width: 100%;
+	background-color:#ffffff;
+	border-color:#cccccc;
+
+}
+
+.name {
+
+	position:relative;
+	background-color:#4aaaa5;
+	top:-32px;
+	left:130px;
+	height: 102px;
+	width:220px;
+
+}
+
+.name p {
+	color:white;
+	font-size: 30px;
+	position:relative;
+	text-align: center;
+	top:34%;
+	font:Times;
+}
+
+header ul {
+
+	position:relative;
+	top:-126px;
+	left:350px;
+
+}
+
+header li {
+	display:inline-block;
+	position:relative;
+	color:#ccc;
+	top: 20px;
+	left: 640px;
+	font-size: 20px;
+	font-color: #ccc;
+
+}
+
+.main { 
+	width: 100%;
+	height:650px;
+	background-image:url("../images/ignasi_pattern_s.png");
+}
+
+#about_me {
+	position:relative;
+	top:51px;
+	left:132px;
+	width:554px;
+	height:400px;
+	background-color: white;
+	padding: 30px;
+	border-color:#dddddd;
+}
+#about_me h1 {
+
+	color:#4aaaa5;
+
+}
+#about_me img{
+	float: left;
+	margin-right: 10px;
+}
+
+#about_me p {
+	position:relative;
+	display:inline;
+	top:15px;
+	left:0;
+	font-size:20px;
+	color:#777777;
+	 
+}
+
+
+
+
+a {
+
+	text-decoration: none;
+	color:gray;
+}
+
+.connect {
+
+	width: 309px;
+	height: 207px;
+	background-color: white;
+	position:absolute;
+	top:151px;
+	left:810px;
+}
+
+.connect h2 {
+
+	text-align: center;
+	color:#4aaaa5 ;
+}
+
+.connect hr {
+
+	width:75%;
+}
+.connect img {
+
+	width: 75px;
+	height: 75px;
+
+}
+.connect li {
+	display: inline;
+
+}
+.above_footer  {
+	background-color:#4aaaa5;
+	width:100%;
+	height:20px;
+}
+.footer {
+	background-color: gray;
+	margin-top: 0;
+	width:100%;
+	height:150px;
+	position:relative;
+	top:-16px;
+}
+
+.footer p {
+	position:relative;
+	color:white;
+	text-align: center;
+	top:50%;
+	
+}
+#contact {
+	position:relative;
+	top:51px;
+	left:132px;
+	width:554px;
+	height:400px;
+	background-color: white;
+	padding: 30px;
+}
+#contact {
+
+	color:#4aaaa5;
+}
+
+
+#input_name{
+	height: 20px;
+	width:500px;
+}
+
+#input_email {
+	height: 20px;
+	width:500px;
+
+}
+
+#input_message {
+	width:500px;
+	height:100px;
+}
+#input_sumbit {
+
+	width:100px;
+	height:30px;
+	background-color:#4aaaa5;
+	position:relative;
+	top:20px;
+	color:white;
+
+}
+#portfolio {
+
+	position:relative;
+	top:51px;
+	left:132px;
+	width:554px;
+	height:400px;
+	overflow-y:scroll;
+	background-color: white;
+	padding: 30px;
+}
+
+#portfolio h1{
+
+	color:#4aaaa5;
+
+}
+.port_image img {
+
+	width:200px;
+	height:200px;
+}
+
+td img {
+	padding-top: 25px;
+	padding-left: 40px;
+	padding-bottom:0px;
+	width: 200px;
+	height:200px;
+	margin-top: 11px;
+	margin-bottom: 0px;
+	margin-right:10px;
+	margin-left:10px;
+
+	
+
+}
+
+td div {
+	background-color:#4aaaa5;
+	width:200px;
+	height:50px;
+	position:relative; 
+	top:-85px;
+	left:50px;
+	
+	
+	}
+td div p {
+	color:white;
+	text-align: center;
+	position:relative;
+	top:30%;
+	font:Times;
+	font-size:20px;
+}
+
+#self{
+	position:relative;
+	top:15px;
+	width:150px;
+	height:150px;
+}
+
