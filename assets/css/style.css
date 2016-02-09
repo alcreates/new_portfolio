@@ -342,6 +342,44 @@ td div {
 	padding: 30px;
 }
 
+@media screen and (max-width: 640px){
+
+	header ul {
+		left: -300px;
+	}
+	#about_me {
+		left: 20px;
+		width: 350px;
+		height:530px;
+	}
+	.connect {
+		left: 460px;
+		width: 150px;
+		height: 400px;
+	}
+	#portfolio {
+
+	position:relative;
+	top:51px;
+	left:20px;
+	width:350px;
+	height:400px;
+	overflow-y:scroll;
+	background-color: white;
+	padding: 30px;
+	}
+#contact {
+		position:relative;
+		top:51px;
+		left:0px;
+		width:400px;
+		height:400px;
+		background-color: white;
+		padding: 30px;
+
+	}
+
+
 
 }
 
