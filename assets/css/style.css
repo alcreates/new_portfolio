@@ -254,3 +254,37 @@ td div p {
 	height:150px;
 }
 
+@media screen and (max-width: 980px){
+
+	header ul {
+		left: 0px;
+	}
+	#about_me {
+		left: 30px;
+	}
+	.connect {
+		left: 675px;
+	}
+
+	#portfolio {
+
+	position:relative;
+	top:51px;
+	left:40px;
+	width:554px;
+	height:400px;
+	overflow-y:scroll;
+	background-color: white;
+	padding: 30px;
+}
+	#contact {
+		position:relative;
+		top:51px;
+		left:40px;
+		width:554px;
+		height:400px;
+		background-color: white;
+		padding: 30px;
+
+}
+
